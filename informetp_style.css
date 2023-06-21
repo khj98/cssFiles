@@ -1,0 +1,246 @@
+﻿* {
+    font-family: Verdana;
+    font-size: xx-small;
+}
+
+.principal {
+    margin: auto;
+    margin-top: 0px;
+    width: 1200px;
+    background-color: white;
+}
+
+.subtitulo {
+    background-color: lightblue;
+    font-weight: bold;
+    text-align: left;
+    padding: 5px 10px 5px 10px;
+}
+
+.celdaBordesTitulo {
+    border: silver 1px solid;
+    border-top: none;
+    height: 20px;
+    font-weight: bold;
+    background-color: white;
+}
+
+.celdaBordes {
+    border: silver 1px solid;
+    border-top: none;
+    height: 20px;
+    font-weight: normal;
+    background-color: white;
+    text-align: center;
+}
+
+.celdaVacia {
+    height: 20px;
+    font-weight: normal;
+}
+
+.celdaBordesBotton {
+    border-top: silver 1px solid;
+    border-bottom: none;
+    border-left: silver 1px solid;
+    border-right: silver 1px solid;
+    height: 20px;
+    font-weight: normal;
+    background-color: white;
+    text-align: center;
+}
+
+.celdaBordesTop {
+    border-top: none;
+    border-bottom: silver 1px solid;
+    border-left: silver 1px solid;
+    border-right: silver 1px solid;
+    height: 20px;
+    font-weight: normal;
+    background-color: white;
+}
+
+.celdaBordesTopBotton {
+    border-top: none;
+    border-bottom: none;
+    border-left: silver 1px solid;
+    border-right: silver 1px solid;
+    height: 20px;
+    font-weight: normal;
+    background-color: white;
+}
+
+.divNormal {
+    background-color: white;
+}
+
+.lineaIzquierda {
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 70px;
+    float: left;
+}
+
+.lineaDerecha {
+    width: 300px;
+    margin-right: 50px;
+    margin-top: 70px;
+    float: right;
+}
+
+.lineaCentro {
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 70px;
+    float: left;
+}
+
+.selected {
+    background-color: #006CBE;
+}
+
+
+
+
+/** {
+    margin:0px;
+    padding:0px;
+}
+
+div#general {
+    margin:auto;
+    margin-top: 0px;
+    width: 1100px;
+    height: 800px;*/
+/* background-color: red;*/
+/*}
+
+div#uno {*/
+/*background-color: antiquewhite;*/
+/*margin: auto;
+}
+
+div#fecha-hora {
+    float:left;
+    width: 550px;
+    height: 151px;*/
+/*background-color: green;*/
+/*}
+
+div#republica {
+    float: right;
+    width: 410px;
+    height: 151px;*/
+/*background-color: greenyellow;*/
+/*}
+
+div#escudo {
+    float: left;
+    width: 140px;
+    height: 151px;*/
+/*background-color: lightgreen;*/
+/*}
+
+div#dos {*/
+/*background-color: yellow;*/
+/*margin: auto;*/
+/*height: 50px;*/
+/*}
+
+.subtitulo {
+    background-color: lightblue;
+    padding-top: 0px;
+    padding-left: 10px;
+    float:left;
+    margin:auto;
+    width: 1100px;*/
+/*padding-top:5px;
+    padding-bottom: 5px;*/
+/*}
+
+.subtitulo2 {
+    background-color: lightblue;
+    padding-top: 0px;
+    padding-left: 10px;
+    float: left;
+    margin: auto;*/
+/*padding-top:5px;
+    padding-bottom: 5px;*/
+/*}
+
+.subtitulo3 {
+    background-color: white;
+    padding-top: 0px;
+    padding-left: 10px;
+    float: left;
+    margin: auto;*/
+/*padding-top:5px;
+    padding-bottom: 5px;*/
+/*}
+
+.div-general {
+    padding-top: 0px;
+    float: left;
+    margin: auto;
+}
+
+div#tres {*/
+/*background-color: yellow;*/
+/*margin: auto;*/
+/*height: 50px;*/
+/*}
+
+div#4567y8{
+    margin:auto;
+}
+
+.celdaIzquierda {
+    border-left: #DDDDDD 1px solid;
+    border-bottom: #DDDDDD 1px solid;
+    border-top: none;
+    border-right: none;
+}
+
+.celdaCentro {
+    border-left: none;
+    border-bottom: #DDDDDD 1px solid;
+    border-top: none;
+    border-right: none;
+}
+
+.celdaDerecha {
+    border-right: #DDDDDD 1px solid;
+    border-bottom: #DDDDDD 1px solid;
+    border-top: none;
+    border-left: none;
+}
+
+.celdaUnica {
+    border-right: #DDDDDD 1px solid;
+    border-bottom: #DDDDDD 1px solid;
+    border-top: none;
+    border-left: #DDDDDD 1px solid;
+}
+
+.lineaIzquierda {
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 70px;
+    float: left;
+}
+
+.lineaDerecha {
+    width: 300px;
+    margin-right: 50px;
+    margin-top: 70px;
+    float: right;
+}
+
+.lineaCentro {
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 70px;
+    float: left;
+}*/
